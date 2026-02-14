@@ -1,0 +1,12 @@
+[
+  {"category": "support", "question": "How do I reset my password?"},
+  {"category": "support", "question": "How do I cancel my subscription?"},
+  {"category": "support", "question": "Where can I download the mobile app?"},
+  {"category": "product", "question": "What's your refund policy?"},
+  {"category": "product", "question": "Do you offer student discounts?"},
+  {"category": "technical", "question": "Why is the page loading slowly?"},
+  {"category": "technical", "question": "How do I export my data?"},
+  {"category": "billing", "question": "How do I update my payment method?"},
+  {"category": "billing", "question": "When will I be charged?"},
+  {"category": "features", "question": "Can I integrate with Slack?"}
+]
