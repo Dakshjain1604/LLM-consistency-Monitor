@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/NEO-Consistency_Monitor-000000?style=for-the-badge&labelColor=000000" alt="NEO"/>
+  <img src="https://img.shields.io/badge/NEO-000000?style=for-the-badge&labelColor=000000" alt="NEO"/>
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+"/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
 </p>
@@ -365,7 +365,6 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## 🙏 Acknowledgments
 
-- **Anthropic** — Claude API (paraphrasing & fact extraction)  
 - **Sentence-Transformers** (UKPLab) — semantic embeddings  
 - **Chart.js** — report visualizations  
 - **Rich** — terminal UI  
